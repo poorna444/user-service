@@ -1,0 +1,8 @@
+LEVEL   - 	TRACE   -   DEBUG   -   INFO  -    WARN  -   ERROR
+
+TRACE		  Y			  Y           Y          Y         Y
+DEBUG         N           Y           Y          Y         Y
+INFO          N           N           Y          Y         Y
+WARN          N           N           N          Y         Y
+ERROR         N           N           N          N         Y
+
